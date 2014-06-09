@@ -1,9 +1,9 @@
 OculusStreetView
 ================
 
-Fork from: https://github.com/troffmo5/OculusStreetView
-
 Google Street View viewer for the Oculus Rift
+ Forked from: https://github.com/troffmo5/OculusStreetView
+
 
 Usage
 -------------
